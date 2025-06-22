@@ -5,6 +5,10 @@
 
 👋 Hi there! I'm Aadesh Srivastav<br>🚀 Passionate Computer Science student<br>💻 I love building full-stack web apps and solving DSA problems<br>☁️ Exploring cloud computing and DevOps tools<br>🛠️ Currently working as a Software Developer Intern at DripLink<br>⚙️ Working on frontend, backend, CI/CD, and testing features<br>📚 Always learning and building real-world projects<br>💡 Tech Stack: React, Node.js, TypeScript, MongoDB, and more (see below!)<br>✨ Let’s connect and create something amazing!
 
+<a>
+    <img src="https://komarev.com/ghpvc/?username=aadesh49&style=for-the-badge">
+</a>
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" height="50" align="middle"> Tech Stack:
