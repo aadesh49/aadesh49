@@ -60,4 +60,22 @@
 </h2>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadesh49-srivastav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadeshsrivastav49@gmail.com) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/aadesh49/) [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat-square&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/aadeshsrinb13/profile) [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/aadeshsrivastav2) [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/aadesh49) 
+<a href="https://www.linkedin.com/in/aadesh49-srivastav" target="">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="height:30px;">
+</a>
+<a href="mailto:aadeshsrivastav49@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" style="height:30px;">
+</a>
+<a href="https://leetcode.com/aadesh49/" target="">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" style="height:30px;">
+</a>
+<a href="https://geeksforgeeks.org/user/aadeshsrinb13/profile" target="_blank">
+  <img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat-square&logo=GeeksforGeeks&logoColor=white" style="height:30px;">
+</a>
+<a href="https://www.hackerrank.com/profile/aadeshsrivastav2" target="_blank">
+  <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" style="height:30px;">
+</a>
+<a href="https://www.codechef.com/users/aadesh49" target="_blank">
+  <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white" style="height:30px;">
+</a>
+
