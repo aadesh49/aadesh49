@@ -69,7 +69,7 @@
 <a href="https://leetcode.com/aadesh49/" target="">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" style="height:30px;">
 </a>
-<a href="https://geeksforgeeks.org/user/aadeshsrinb13/profile" target="_blank">
+<a href="https://geeksforgeeks.org/user/aadeshsrinb13" target="_blank">
   <img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat-square&logo=GeeksforGeeks&logoColor=white" style="height:30px;">
 </a>
 <a href="https://www.hackerrank.com/profile/aadeshsrivastav2" target="_blank">
