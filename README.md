@@ -3,7 +3,7 @@
   About Me:
 </h2>
 
-👋 Hi there! I'm Aadesh Srivastav<br>🚀 Passionate Computer Science student<br>💻 I love building full-stack web apps and solving DSA problems<br>☁️ Exploring cloud computing and DevOps tools<br>🛠️ Currently working as a Software Developer Intern at DripLink<br>⚙️ Working on frontend, backend, CI/CD, and testing features<br>📚 Always learning and building real-world projects<br>💡 Tech Stack: React, Node.js, TypeScript, MongoDB, and more (see below!)<br>✨ Let’s connect and create something amazing!
+👋 Hi there! I'm Aadesh Srivastav<br>🎓 A passionate Computer Science undergraduate who loves building real-world software. <br>💻 I enjoy creating scalable backend systems and full-stack web applications.<br>⚙️ Currently working as a Backend Developer Intern at Lighthouse Learning Group, building services using Spring Boot + MySQL.<br>💼 Software Engineering Intern at DripLink, contributing to core development in a fast-paced startup environment.<br>💡 I love solving DSA problems — 1400+ across the platform.<br>🧱 Built notable projects like Code Journal (MERN blog platform) and Campus Connect (governance + blockchain voting portal).<br>🚀 Comfortable with React.js, Next.js, Node.js, Express.js, Spring Boot, and REST API design.<br> 🗄️ Familiar with MongoDB | MySQL | PostgreSQL and database schema design. </br> ☁️ Exploring DevOps & Cloud tools like Docker, AWS, GitHub Actions (CI/CD) to build scalable deployments. </br> ✨ Let’s connect and create something amazing!
 
 <a>
     <img src="https://komarev.com/ghpvc/?username=aadesh49&style=for-the-badge">
